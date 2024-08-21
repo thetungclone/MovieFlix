@@ -1,0 +1,39 @@
+<!-- <html>
+    <head></head>
+    <body>
+        <svg-animate trigger="visible"> -->
+            <svg viewBox="0 0 110 110" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:anim="http://www.w3.org/2000/anim" anim="" anim:transform-origin="50% 50%" anim:duration="1" anim:ease="ease-in-out">
+                <g id="movie-movie 1" clip-path="url(#clip0_10_751)">
+                    <path id="Vector" d="M66.0627 56.2911C66.5019 56.0087 66.7674 55.5224 66.7674 55C66.7674 54.4776 66.5019 53.9913 66.0627 53.7089L48.1557 42.1973C47.6832 41.8936 47.0828 41.8721 46.5901 42.1412C46.0972 42.4101 45.7907 42.9269 45.7907 43.4884V66.5116C45.7907 67.0731 46.0972 67.5899 46.5901 67.8587C47.0828 68.1279 47.6832 68.1064 48.1557 67.8027L66.0627 56.2911Z" fill="url(#paint0_linear_10_751)"></path>
+                    <g id="Vector_2" filter="url(#filter0_d_10_751)">
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M8.95349 18.9302C8.1058 18.9302 7.41861 19.6174 7.41861 20.4651V89.5349C7.41861 90.3827 8.1058 91.0698 8.95349 91.0698H101.047C101.894 91.0698 102.581 90.3827 102.581 89.5349V20.4651C102.581 19.6174 101.894 18.9302 101.047 18.9302H8.95349ZM99.5116 41.9535V22H84.6744V41.9535H99.5116ZM81.6047 22H28.3954V43.4884V66.5086V66.5116V66.5147V88H81.6047V22ZM84.6744 88H99.5116V68.0465H84.6744V88ZM99.5116 64.9767H84.6744V45.0233H99.5116V64.9767ZM25.3256 88V68.0465H10.4884V88H25.3256ZM10.4884 64.9767H25.3256V45.0233H10.4884V64.9767ZM10.4884 41.9535H25.3256V22H10.4884V41.9535Z" fill="url(#paint1_linear_10_751)"></path>
+                    </g>
+                </g>
+                <defs>
+                    <filter id="filter0_d_10_751" x="7.41861" y="18.9302" width="104.163" height="81.1395" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+                        <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+                        <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"></feColorMatrix>
+                        <feOffset dx="5" dy="5"></feOffset>
+                        <feGaussianBlur stdDeviation="2"></feGaussianBlur>
+                        <feComposite in2="hardAlpha" operator="out"></feComposite>
+                        <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"></feColorMatrix>
+                        <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_10_751"></feBlend>
+                        <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_10_751" result="shape"></feBlend>
+                    </filter>
+                    <linearGradient id="paint0_linear_10_751" x1="11.4911" y1="15.1759" x2="55.8329" y2="99.5203" gradientUnits="userSpaceOnUse">
+                        <stop offset="0.277243" stop-color="#F89E00"></stop>
+                        <stop offset="0.932296" stop-color="#DA2F68"></stop>
+                    </linearGradient>
+                    <linearGradient id="paint1_linear_10_751" x1="11.4911" y1="15.1759" x2="112.174" y2="84.4186" gradientUnits="userSpaceOnUse">
+                        <stop stop-color="#F89E00"></stop>
+                        <stop offset="0.833993" stop-color="#DA2F68"></stop>
+                    </linearGradient>
+                    <clipPath id="clip0_10_751">
+                        <rect width="110" height="110" fill="white"></rect>
+                    </clipPath>
+                </defs>
+            </svg>
+        <!-- </svg-animate>
+        <script src="https://cdn.jsdelivr.net/npm/@figmania/loader/build/index.umd.js"></script>
+    </body>
+</html> -->

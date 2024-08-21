@@ -49,10 +49,10 @@ const Footer = () => {
           <div className="contactInfo">
             <h2>Contact Us</h2>
             <p>
-              <FaPhoneAlt size={16} /> (+91) 97140 15889
+              <FaPhoneAlt size={16} /> (+91) 9876543210
             </p>
             <p>
-              <MdOutlineMailOutline size={20} /> twishamody@gmail.com
+              <MdOutlineMailOutline size={20} /> twisha.movieflix@gmail.com
             </p>
           </div>
         </div>
